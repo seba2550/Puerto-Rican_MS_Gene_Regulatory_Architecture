@@ -1,3 +1,4 @@
+#Script for trimming adapters
 for filename in *_1.txt.bz2
 do
 	base=$(basename $filename .txt.bz2)
