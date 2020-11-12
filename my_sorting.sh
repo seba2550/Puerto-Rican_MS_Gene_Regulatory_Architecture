@@ -1,3 +1,4 @@
+#Sorting script (Files have to be sorted for peak-calling with HMMRATAC)
 for filename in *_1.qc.fq.gz
 do
         base=$(basename $filename .qc.fq.gz)
