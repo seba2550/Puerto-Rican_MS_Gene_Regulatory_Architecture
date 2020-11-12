@@ -1,3 +1,5 @@
+# This is a script to run the "bamQC" function on our bam files. The function removes mitochondrial mapped reads, PCR amplification artifacts, and low-quality mappings.
+
 BiocManager::install("ATACseqQC")
 
 library(ATACseqQC)
