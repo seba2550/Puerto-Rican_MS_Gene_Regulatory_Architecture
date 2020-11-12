@@ -1,3 +1,4 @@
+#Mapping script
 for filename in *_1.qc.fq.gz
 do
   	base=$(basename $filename .qc.fq.gz)
