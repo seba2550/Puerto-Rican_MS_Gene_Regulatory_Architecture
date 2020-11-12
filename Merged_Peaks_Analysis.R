@@ -1,3 +1,5 @@
+# Script for merging all of the peak files for the second set of ATAC-seq data, merging overlapping peaks, and doing some exploratory data analyses on the resulting peaks.
+
 setwd("~/Desktop/Case PREP/Bush_Lab_Work/ATACseq_MS_PR/peak_calls/gappedPeak/")
 
 library("ChIPseeker")
