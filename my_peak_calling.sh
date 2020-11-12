@@ -1,3 +1,4 @@
+#Peak calling on the cleaned (ATACseqQC) and sorted (samtools) bam files (HMMRATAC)
 for filename in *.clean.sorted.bam
 do
         base=$(basename $filename .clean.sorted.bam)
