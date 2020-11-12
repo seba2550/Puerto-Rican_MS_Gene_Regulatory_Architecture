@@ -1,3 +1,4 @@
+#Script for enrichment of certain MS motifs of interest in the peaks of our second ATACseq dataset.
 setwd("~/Desktop/Case_PREP/Bush_Lab_Work/ATACseq_MS_PR/peak_calls/gappedPeak/")
 
 
